@@ -4,6 +4,9 @@
 .project
 .springBeans
 .sts4-cache/
+.metadata/
+.settings/
+bin/
 
 # Arquivos específicos do Maven no Eclipse STS
 .classpath

@@ -1,0 +1,13 @@
+﻿1 - Acordo com o despertador às 7h.
+2 - Verifico se a suíte do quarto está ocupada com a mulher.
+	2.1 - Se estiver ocupada:
+		Vou para o outro banheiro.
+	2.2 - Se não estiver ocupada:
+		Tomo banho na suíte.
+3 - Vou para a cozinha.
+4 - Bebo água.
+5 - Separo todos os ingredientes para a vitamina.
+6 - Preparo a vitamina.
+7 - Bebo a vitamina.
+8 - Lavo os talheres.
+9 - Vou escovar os dentes.
