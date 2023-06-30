@@ -1,0 +1,21 @@
+# Arquivos específicos do Eclipse STS
+.apt_generated/
+.classpath
+.project
+.springBeans
+.sts4-cache/
+
+# Arquivos específicos do Maven no Eclipse STS
+.classpath
+.mvn/
+mvnw
+mvnw.cmd
+settings.xml
+
+# Arquivos específicos do Gradle no Eclipse STS
+.gradle/
+gradlew
+gradlew.bat
+
+# Arquivos de log do Eclipse STS
+sts.log

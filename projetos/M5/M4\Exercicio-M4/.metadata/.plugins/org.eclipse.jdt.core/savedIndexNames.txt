@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/jailson/EBAC/Back-End/Ebac-Java/M4\Exercicio-M4/.metadata/.plugins/org.eclipse.jdt.core
+3698465466.index
+2172736575.index
+1865797976.index
