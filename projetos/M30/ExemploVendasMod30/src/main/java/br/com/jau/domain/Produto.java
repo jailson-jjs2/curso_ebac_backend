@@ -27,6 +27,9 @@ public class Produto implements Persistente {
 	@ColunaTabela(dbName = "nome", setJavaName = "setNome")
 	private String nome;
 	
+	@ColunaTabela(dbName = "fabricante", setJavaName = "setFabricante")
+	private String fabricante;
+	
 	@ColunaTabela(dbName = "descricao", setJavaName = "setDescricao")
 	private String descricao;
 	
@@ -47,6 +50,14 @@ public class Produto implements Persistente {
 
 	public void setNome(String nome) {
 		this.nome = nome;
+	}
+
+	public String getFabricante() {
+		return fabricante;
+	}
+
+	public void setFabricante(String fabricante) {
+		this.fabricante = fabricante;
 	}
 
 	public String getDescricao() {
